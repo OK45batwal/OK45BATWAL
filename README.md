@@ -1,111 +1,18 @@
-# 💫 About Me
+# 💫 About Me:
+## About Me<br><br>Hi, I’m **Omkar Batwal** — an Information Technology student and full-stack web developer passionate about building modern, practical, and user-focused digital products.<br><br>I enjoy turning ideas into real applications and working across the full development stack, from clean UI design to backend logic and database integration. My interests include **Web Development**, **Artificial Intelligence**, **Cloud Computing**, and **Cybersecurity**.<br><br>I’ve worked on projects like **InvoiceFlow Pro**, **Samachar News**, and other creative software ideas that focus on solving real-world problems with simple and effective technology. I’m always learning, improving, and exploring better ways to build scalable and polished products.<br><br>### What I do<br><br>* Build responsive and modern web applications<br>* Develop full-stack projects with clean architecture<br>* Explore AI-powered tools and automation<br>* Learn new technologies and improve problem-solving skills<br><br>### Currently focused on<br><br>* Full-Stack Development<br>* AI and Prompt Engineering<br>* Cloud and System Design<br>* UI/UX improvement<br>* Open-source learning<br><br>### Goal<br><br>To grow as a software engineer and create products that are useful, elegant, and impactful.<br>
 
-👋 Hi — I'm Omkar Batwal (OK45batwal). I'm an Information Technology student and a full‑stack developer with a passion for building scalable web apps and solving real-world problems. I enjoy working with JavaScript/TypeScript, Python, and modern frameworks like React and Node.js. Currently I'm exploring backend scaling patterns, CI/CD, and cloud-native deployments.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/batwal.omkar.16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Omkar Batwal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItOmKaR162) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:batwalomkar16@gmail.com) 
 
-## 📌 Table of Contents
-- [About Me](#-about-me)
-- [Socials](#-socials)
-- [Tech Stack](#-tech-stack)
-- [Projects](#-projects)
-- [How to run my projects](#-how-to-run-my-projects)
-- [GitHub Stats](#-github-stats)
-- [Contact](#-contact)
-- [Contributing](#-contributing)
+# 💻 Tech Stack:
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=OK45batwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=OK45batwal&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=OK45batwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/batwal.omkar.16) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-batwal)  
-[![GitHub followers](https://img.shields.io/github/followers/OK45batwal?label=Follow&style=social)](https://github.com/OK45batwal)
-
----
-
-## 💻 Tech Stack
-
-Languages & frameworks I use regularly:
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-You can also include badges for databases, cloud providers, or tooling you commonly use (Postgres, Docker, AWS, GitHub Actions, etc.).
-
----
-
-## 🚀 Projects
-
-Here are some highlighted projects — add links and short descriptions for each repo or demo:
-
-- **Project A** — Short one-liner about what it does. [Live Demo](#) · [Repo](#)
-- **Project B** — Short one-liner about what it does. [Live Demo](#) · [Repo](#)
-- **Project C** — Short one-liner about what it does. [Live Demo](#) · [Repo](#)
-
-Tip: For each project, include a README in that repo with:
-- Quick description
-- Tech used
-- Setup & run steps
-- Screenshots or demo link
-- License
-
----
-
-## 🛠 How to run my projects (example)
-
-1. Clone the repo:
-   git clone https://github.com/OK45batwal/your-project.git
-2. Install dependencies:
-   cd your-project
-   npm install
-3. Run locally:
-   npm run dev
-4. For production:
-   npm run build && npm start
-
-Replace these steps per project — include environment variable examples (.env.example) and any DB migrations.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=OK45batwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=OK45batwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=OK45batwal&theme=dark&hide_border=false)
-
-Note: Ensure the username in these URLs matches your GitHub username exactly (case-insensitive usually works), and consider switching to maintained mirrors of these services if any go offline.
-
----
-
-## ✉️ Contact
-
-- Email: omkar[dot]batwal[at]example[dot]com (replace with your preferred contact)
-- LinkedIn: https://linkedin.com/in/omkar-batwal
-- Portfolio / Resume: add your link here
-
-(If you prefer not to publish email, provide a contact form link or only LinkedIn/GitHub.)
-
----
-
-## 🤝 Contributing
-
-Interested in collaborating? Add a CONTRIBUTING.md to explain:
-- How to open an issue
-- Branching & PR guidelines
-- Code style and testing
-- Code of Conduct (optional)
-
----
-
-## 🎯 What I'm learning
-
-- Short-term goals: e.g., "Kubernetes and container orchestration", "advanced TypeScript patterns".
-- Long-term goals: e.g., "distributed systems", "scalable backend architecture".
-
----
+[![](https://komarev.com/ghpvc/?username=OK45batwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
